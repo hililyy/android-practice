@@ -12,35 +12,42 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <ImageView
+            android:id="@+id/animalImage1"
             android:src="@drawable/image_1"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/animalImage2"
             android:src="@drawable/image_2"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/animalImage3"
             android:src="@drawable/image_3"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
     </LinearLayout>
 
     <LinearLayout
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <ImageView
+            android:id="@+id/animalImage4"
             android:src="@drawable/image_4"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/animalImage7"
             android:src="@drawable/image_7"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/animalImage6"
             android:src="@drawable/image_6"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
