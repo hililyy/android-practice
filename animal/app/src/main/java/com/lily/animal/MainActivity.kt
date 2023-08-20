@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         val image2 = findViewById<ImageView>(R.id.animalImage2)
         val image3 = findViewById<ImageView>(R.id.animalImage3)
         val image4 = findViewById<ImageView>(R.id.animalImage4)
-        
+
         image2.setOnClickListener {
             val intent = Intent(this, Animal2Activity::class.java)
             startActivity(intent)
