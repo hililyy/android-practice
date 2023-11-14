@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127717296562",
+    "project_id": "androidfirebasetest-e383e",
+    "storage_bucket": "androidfirebasetest-e383e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127717296562:android:cf0333f192962373df3cab",
+        "android_client_info": {
+          "package_name": "com.lily.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wXxC9BsgUY4025fFp2yC1DUSafywzQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
