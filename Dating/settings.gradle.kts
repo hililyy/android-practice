@@ -12,12 +12,10 @@ dependencyResolutionManagement {
         mavenCentral()
         jcenter() //추가
         maven {
-            url = uri("https://jitpack.io")
+            url = uri("https://jitpack.io") // 이렇게 추가
         }
     }
 }
-
-
 
 rootProject.name = "Dating"
 include(":app")

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852164999995",
+    "project_id": "dating-2770f",
+    "storage_bucket": "dating-2770f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852164999995:android:81930e2500b27f5d04551e",
+        "android_client_info": {
+          "package_name": "com.lily.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbDpcolgizkz70tHhmfbJYnA3vFHtJPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
